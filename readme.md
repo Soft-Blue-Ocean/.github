@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./logo.JPG" alt="Soft Blue Ocean Logo" /> | Driving Digital Transformation
+    Driving Digital Transformation
 </h1>
 
 <p align="center">
